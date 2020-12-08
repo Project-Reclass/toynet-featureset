@@ -54,3 +54,10 @@ Image pnael should update regularly:
 
 ![Adding too many devices](https://github.com/Project-Reclass/toynet-featureset/blob/main/too-many-devices-error.gif)
 1. Adding more than 10 of any device should fail with error message: "Error: Maximum number of devices is 10!"
+
+Value Page Guideline
+![smaller image panel](https://github.com/Project-Reclass/toynet-featureset/blob/main/value_page_instructions.gif)
+1. The path for the value page is "/value/{value_id}". For example, for value id 5003, the page for value Honor shows up. For 5001, Integrity shows up.
+2. The page displays 1 to 3 boxes with the definition of the value from each military branch. In each box, the branch and the definition used by the branch are shown.
+3. Under these boxes there is an input box written "What does {value} mean to you?" (For example, "What does Integrity mean to you?" for the Integrity page with value id 5001.) Here you write what the value mean to you.
+4. Click "Save" beneath the input box to save the your response.
