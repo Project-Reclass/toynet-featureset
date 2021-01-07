@@ -61,3 +61,9 @@ Image pnael should update regularly:
 2. The page displays 1 to 3 boxes with the definition of the value from each military branch. In each box, the branch and the definition used by the branch are shown.
 3. Under these boxes there is an input box written "What does {value} mean to you?" (For example, "What does Integrity mean to you?" for the Integrity page with value id 5001.) Here you write what the value mean to you.
 4. Click "Save" beneath the input box to save the your response.
+
+## Curriculum
+![curriculum-screen](curriculum-screen.jpg)
+1.  Items that are 100% completed should say "Completed" and progress bar should be green with a checkbox for icon.
+2. Items that are not < 100% complete should say "Module progress" and the progress bar should be yellow/
+3. Clicking on chevrons expand and minimize the list of modules.
