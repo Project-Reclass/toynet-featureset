@@ -61,3 +61,13 @@ Image pnael should update regularly:
 2. The page displays 1 to 3 boxes with the definition of the value from each military branch. In each box, the branch and the definition used by the branch are shown.
 3. Under these boxes there is an input box written "What does {value} mean to you?" (For example, "What does Integrity mean to you?" for the Integrity page with value id 5001.) Here you write what the value mean to you.
 4. Click "Save" beneath the input box to save the your response.
+
+
+## Quiz Guideline
+
+![quiz](quiz.png)
+1. Questions can be clicked and only one radio should be selected at a time per question.
+2. When the quiz is submitted a modal pops up displaying how many answers are correct and how may are incorrect.
+3. X's are displayed on incorrect answers and ✅ are displayed on correct answers.
+4. Pressing on the X in upper right closes the modal to review questions.
+5. Incorrect question labels are red.
