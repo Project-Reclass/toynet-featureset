@@ -63,7 +63,7 @@ Image pnael should update regularly:
 4. Click "Save" beneath the input box to save the your response.
 
 ## Curriculum
-![curriculum-screen](curriculum-screen.jpg)
+![curriculum-screen](curriculum-screen.png)
 1.  Items that are 100% completed should say "Completed" and progress bar should be green with a checkbox for icon.
 2. Items that are not < 100% complete should say "Module progress" and the progress bar should be yellow/
 3. Clicking on chevrons expand and minimize the list of modules.
