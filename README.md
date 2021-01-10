@@ -40,7 +40,7 @@ GIFs are captured using Giphy Capture on Mac OS.
 2. Connect the new devices to each other.
 
 Image panel should update regularly:
-![larger image panel](https://github.com/Project-Reclass/toynet-featureset/blob/main/connected-devices.png)
+<br/><img src="connected-devices.png" alt="larger image panel" width="600" /><br/>
 
 ![Deleting device links before deleting devices](https://github.com/Project-Reclass/toynet-featureset/blob/main/deleting-linked-devices.gif)
 1. Delete link between r0 and s0.
@@ -50,7 +50,7 @@ Image panel should update regularly:
 5. Delete h2.
 
 Image panel should update regularly:
-![smaller image panel](https://github.com/Project-Reclass/toynet-featureset/blob/main/links-deleted.png)
+<br/><img src="links-deleted.png" alt="smaller image panel" width="500" /><br/>
 
 ![Adding too many devices](https://github.com/Project-Reclass/toynet-featureset/blob/main/too-many-devices-error.gif)
 1. Adding more than 10 of any device should fail with error message: "Error: Maximum number of devices is 10!"
